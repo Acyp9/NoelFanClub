@@ -1,0 +1,19 @@
+.NOEL {
+        border: none;
+      }
+      
+      .NoelM {
+        font-size: 59px;
+        color: limegreen;
+        text-align: center;
+      }
+      
+      .NoelC {
+        float: left;
+      }
+      
+      #NoelCourtney {
+        width: 33%;
+        height: 21%;
+        padding: 0;
+      }
